@@ -1,0 +1,8 @@
+site_name: "test-annotator-1795621728585"
+site_description: "react app for annotator test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
